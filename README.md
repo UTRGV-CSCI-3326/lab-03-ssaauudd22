@@ -55,23 +55,23 @@ To learn more about Java arithmetic operators visit: https://www.w3schools.com/j
 
 ### Bank Account
 
-Bob has a checking acount with Texas Bank with a starting balance of $`2175.37`.
+Bobbi has a checking account with Washington Bank with a starting balance of $`2175.37`.
 
-Bob then performs the following transactions:
+Bobbi then performs the following transactions:
 
-1. Bob **withdrew** $`302.50`.
+1. Bobbi **withdrew** $`302.50`.
 
-2. Bob **deposited** $`50.03`.
+2. Bobbi **deposited** $`50.03`.
 
-3. Bob **withdrew** half of his current balance, then **deposited** $`20.00`.
+3. Bobbi **withdrew** half of her current balance, then **deposited** $`20.00`.
 
-4. Bob **withdrew** $`1`.
+4. Bobbi **withdrew** $`1`.
 
-5. Bob **deposited** his paycheck that doubled his current balance.
+5. Bobbi **deposited** her paycheck that doubled her current balance.
 
-6. Bob **deposited** $`1`.
+6. Bobbi **deposited** $`1`.
 
-Output Bob's new balance after all of his transactions.
+Output Bobbi's new balance after all of her transactions.
 
 ## Submit your assignment
 
